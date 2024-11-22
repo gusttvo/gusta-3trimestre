@@ -5,6 +5,9 @@
 }
 
 body {
+        background-image: url(chapeu-seletor-hp.jpg);
+        background-size: cover;
+        background-position: center;
     background-image: url('rapnacional.webp');
     font-family: Bai Jamjuree;
 }
